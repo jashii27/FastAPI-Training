@@ -1,0 +1,6 @@
+*.pptx
+/fbtenv
+fbtenv/
+*.log
+*.tmp
+*.bak
